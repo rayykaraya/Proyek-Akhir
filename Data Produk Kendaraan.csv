@@ -1,0 +1,1001 @@
+﻿Nama Asuransi,kategori,produk_id,user_id,Rating,Premi Asuransi
+Insureka Asuransi Mobil,Kendaraan,P0001,U0058,4.4,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0002,U0195,3.1,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0003,U0165,3.9,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0004,U0167,4.3,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0005,U0014,3.2,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0006,U0140,3.7,1030320
+ACA Otomate,Kendaraan,P0007,U0100,3.4,366000
+ACA Otomate Smart,Kendaraan,P0008,U0043,3.4,306000
+ACA Otomate Solitaire,Kendaraan,P0009,U0006,3.7,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0010,U0071,4.2,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0011,U0027,5,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0012,U0101,3.7,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0013,U0072,3.7,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0014,U0047,4,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0015,U0006,4.5,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0016,U0151,3.5,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0017,U0013,4.5,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0018,U0006,3.7,3377700
+MAG Asuransi TLO,Kendaraan,P0019,U0002,4.6,420000
+MAG Asuransi All risk,Kendaraan,P0020,U0182,3,2316000
+Alliannz Asuransi TLO,Kendaraan,P0021,U0068,3.3,466800
+Allianz Asuransi All risk,Kendaraan,P0022,U0084,3.7,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0023,U0062,3.8,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0024,U0024,3.3,2460000
+Insureka Asuransi Mobil,Kendaraan,P0025,U0034,4.8,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0026,U0168,4,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0027,U0073,4.1,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0028,U0127,3.7,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0029,U0135,3.8,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0030,U0135,4.8,1030320
+ACA Otomate,Kendaraan,P0031,U0150,3.8,366000
+ACA Otomate Smart,Kendaraan,P0032,U0038,3.6,306000
+ACA Otomate Solitaire,Kendaraan,P0033,U0012,4.2,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0034,U0103,3.8,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0035,U0127,3.6,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0036,U0038,5,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0037,U0034,3.3,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0038,U0121,3.5,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0039,U0196,3,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0040,U0076,3.9,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0041,U0154,3.5,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0042,U0045,4.8,3377700
+MAG Asuransi TLO,Kendaraan,P0043,U0107,4.1,420000
+MAG Asuransi All risk,Kendaraan,P0044,U0138,4.3,2316000
+Alliannz Asuransi TLO,Kendaraan,P0045,U0027,3.6,466800
+Allianz Asuransi All risk,Kendaraan,P0046,U0005,4.3,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0047,U0020,3.1,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0048,U0019,4,2460000
+Insureka Asuransi Mobil,Kendaraan,P0049,U0174,3.8,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0050,U0067,5,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0051,U0185,3.9,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0052,U0196,4.5,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0053,U0184,3.9,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0054,U0004,4,1030320
+ACA Otomate,Kendaraan,P0055,U0108,4.6,366000
+ACA Otomate Smart,Kendaraan,P0056,U0063,3.6,306000
+ACA Otomate Solitaire,Kendaraan,P0057,U0081,4.4,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0058,U0191,3.4,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0059,U0111,4.3,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0060,U0090,4.6,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0061,U0070,4.1,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0062,U0021,4.7,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0063,U0022,3.7,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0064,U0127,4.1,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0065,U0174,2.9,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0066,U0189,3.7,3377700
+MAG Asuransi TLO,Kendaraan,P0067,U0125,3.5,420000
+MAG Asuransi All risk,Kendaraan,P0068,U0032,3.6,2316000
+Alliannz Asuransi TLO,Kendaraan,P0069,U0004,4.5,466800
+Allianz Asuransi All risk,Kendaraan,P0070,U0200,3.4,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0071,U0151,3.3,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0072,U0108,5,2460000
+Insureka Asuransi Mobil,Kendaraan,P0073,U0041,3.8,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0074,U0048,5,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0075,U0171,3.3,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0076,U0155,3.6,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0077,U0002,3.7,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0078,U0122,3.8,1030320
+ACA Otomate,Kendaraan,P0079,U0167,3.3,366000
+ACA Otomate Smart,Kendaraan,P0080,U0023,3.7,306000
+ACA Otomate Solitaire,Kendaraan,P0081,U0125,3.3,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0082,U0103,3.9,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0083,U0188,4.8,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0084,U0134,4.6,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0085,U0155,3,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0086,U0135,4.8,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0087,U0156,5,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0088,U0104,3.1,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0089,U0033,4.8,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0090,U0182,4.3,3377700
+MAG Asuransi TLO,Kendaraan,P0091,U0056,3.6,420000
+MAG Asuransi All risk,Kendaraan,P0092,U0067,5,2316000
+Alliannz Asuransi TLO,Kendaraan,P0093,U0149,3.1,466800
+Allianz Asuransi All risk,Kendaraan,P0094,U0161,5,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0095,U0058,4.4,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0096,U0099,2.9,2460000
+Insureka Asuransi Mobil,Kendaraan,P0097,U0188,2.9,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0098,U0006,4,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0099,U0081,4.5,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0100,U0064,4.7,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0101,U0123,4.6,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0102,U0043,5,1030320
+ACA Otomate,Kendaraan,P0103,U0123,4.9,366000
+ACA Otomate Smart,Kendaraan,P0104,U0095,3.3,306000
+ACA Otomate Solitaire,Kendaraan,P0105,U0197,4.1,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0106,U0117,2.8,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0107,U0100,4.7,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0108,U0053,4.4,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0109,U0175,3.5,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0110,U0143,4.6,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0111,U0018,4.6,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0112,U0060,4,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0113,U0080,3.7,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0114,U0077,3.5,3377700
+MAG Asuransi TLO,Kendaraan,P0115,U0098,4.4,420000
+MAG Asuransi All risk,Kendaraan,P0116,U0119,5,2316000
+Alliannz Asuransi TLO,Kendaraan,P0117,U0012,3.7,466800
+Allianz Asuransi All risk,Kendaraan,P0118,U0008,4.1,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0119,U0088,3.6,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0120,U0112,4.9,2460000
+Insureka Asuransi Mobil,Kendaraan,P0121,U0169,3.8,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0122,U0052,4.1,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0123,U0015,3.7,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0124,U0085,4.3,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0125,U0152,2.5,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0126,U0198,4.2,1030320
+ACA Otomate,Kendaraan,P0127,U0069,3.9,366000
+ACA Otomate Smart,Kendaraan,P0128,U0085,3.2,306000
+ACA Otomate Solitaire,Kendaraan,P0129,U0141,4.5,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0130,U0074,3.5,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0131,U0031,2.3,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0132,U0023,4.4,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0133,U0094,4.7,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0134,U0171,3,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0135,U0002,4.7,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0136,U0048,3.8,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0137,U0169,4.7,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0138,U0018,3.1,3377700
+MAG Asuransi TLO,Kendaraan,P0139,U0078,3.7,420000
+MAG Asuransi All risk,Kendaraan,P0140,U0017,5,2316000
+Alliannz Asuransi TLO,Kendaraan,P0141,U0054,3.3,466800
+Allianz Asuransi All risk,Kendaraan,P0142,U0030,4.3,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0143,U0136,4.8,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0144,U0151,4.4,2460000
+Insureka Asuransi Mobil,Kendaraan,P0145,U0120,3.8,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0146,U0030,5,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0147,U0140,3.8,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0148,U0009,5,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0149,U0043,4.9,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0150,U0128,3.3,1030320
+ACA Otomate,Kendaraan,P0151,U0035,3.5,366000
+ACA Otomate Smart,Kendaraan,P0152,U0056,4.2,306000
+ACA Otomate Solitaire,Kendaraan,P0153,U0002,3.1,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0154,U0197,5,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0155,U0093,4.4,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0156,U0188,3.5,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0157,U0040,3.9,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0158,U0009,3.8,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0159,U0039,3.6,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0160,U0185,3.6,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0161,U0067,4.6,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0162,U0080,3.7,3377700
+MAG Asuransi TLO,Kendaraan,P0163,U0119,3.4,420000
+MAG Asuransi All risk,Kendaraan,P0164,U0049,5,2316000
+Alliannz Asuransi TLO,Kendaraan,P0165,U0128,4.1,466800
+Allianz Asuransi All risk,Kendaraan,P0166,U0018,4.6,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0167,U0166,4.8,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0168,U0019,4.3,2460000
+Insureka Asuransi Mobil,Kendaraan,P0169,U0019,2.8,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0170,U0185,3.6,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0171,U0151,4.6,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0172,U0109,4,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0173,U0072,4.6,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0174,U0138,3,1030320
+ACA Otomate,Kendaraan,P0175,U0112,3.9,366000
+ACA Otomate Smart,Kendaraan,P0176,U0142,5,306000
+ACA Otomate Solitaire,Kendaraan,P0177,U0023,4.9,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0178,U0132,3.7,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0179,U0052,4.2,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0180,U0009,4.6,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0181,U0130,4,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0182,U0072,3.6,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0183,U0199,3.6,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0184,U0018,3,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0185,U0121,3.9,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0186,U0158,3.4,3377700
+MAG Asuransi TLO,Kendaraan,P0187,U0079,3.3,420000
+MAG Asuransi All risk,Kendaraan,P0188,U0114,3.4,2316000
+Alliannz Asuransi TLO,Kendaraan,P0189,U0021,3.4,466800
+Allianz Asuransi All risk,Kendaraan,P0190,U0148,5,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0191,U0195,3.6,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0192,U0095,4,2460000
+Insureka Asuransi Mobil,Kendaraan,P0193,U0122,5,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0194,U0054,3.8,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0195,U0080,4.3,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0196,U0185,3.5,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0197,U0065,3.4,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0198,U0107,4.5,1030320
+ACA Otomate,Kendaraan,P0199,U0027,3.7,366000
+ACA Otomate Smart,Kendaraan,P0200,U0179,5,306000
+ACA Otomate Solitaire,Kendaraan,P0201,U0033,4.4,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0202,U0128,2.7,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0203,U0051,4.3,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0204,U0043,4.2,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0205,U0022,3.3,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0206,U0113,3.8,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0207,U0013,4.2,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0208,U0035,4.3,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0209,U0091,4.8,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0210,U0186,3.1,3377700
+MAG Asuransi TLO,Kendaraan,P0211,U0170,4.6,420000
+MAG Asuransi All risk,Kendaraan,P0212,U0011,4.4,2316000
+Alliannz Asuransi TLO,Kendaraan,P0213,U0163,5,466800
+Allianz Asuransi All risk,Kendaraan,P0214,U0029,4.6,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0215,U0029,3.4,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0216,U0101,4.3,2460000
+Insureka Asuransi Mobil,Kendaraan,P0217,U0071,4.5,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0218,U0011,3.1,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0219,U0085,4.3,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0220,U0095,4.3,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0221,U0012,5,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0222,U0086,4.7,1030320
+ACA Otomate,Kendaraan,P0223,U0080,3.6,366000
+ACA Otomate Smart,Kendaraan,P0224,U0128,4.1,306000
+ACA Otomate Solitaire,Kendaraan,P0225,U0056,4.5,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0226,U0147,3.2,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0227,U0098,4.2,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0228,U0003,3.3,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0229,U0168,4.4,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0230,U0042,2.9,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0231,U0001,2.4,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0232,U0155,5,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0233,U0087,3.3,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0234,U0079,3.8,3377700
+MAG Asuransi TLO,Kendaraan,P0235,U0077,3.8,420000
+MAG Asuransi All risk,Kendaraan,P0236,U0112,3.3,2316000
+Alliannz Asuransi TLO,Kendaraan,P0237,U0188,3.6,466800
+Allianz Asuransi All risk,Kendaraan,P0238,U0021,3.3,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0239,U0155,3.1,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0240,U0090,4.1,2460000
+Insureka Asuransi Mobil,Kendaraan,P0241,U0119,5,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0242,U0111,4.3,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0243,U0029,3.8,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0244,U0174,4,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0245,U0180,4.1,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0246,U0195,3.9,1030320
+ACA Otomate,Kendaraan,P0247,U0134,3.6,366000
+ACA Otomate Smart,Kendaraan,P0248,U0178,3.6,306000
+ACA Otomate Solitaire,Kendaraan,P0249,U0199,2.4,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0250,U0187,4.1,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0251,U0009,3.7,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0252,U0195,3.2,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0253,U0129,5,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0254,U0047,4.9,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0255,U0184,3.8,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0256,U0007,4.3,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0257,U0159,4.1,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0258,U0079,4.1,3377700
+MAG Asuransi TLO,Kendaraan,P0259,U0140,3.8,420000
+MAG Asuransi All risk,Kendaraan,P0260,U0187,3.9,2316000
+Alliannz Asuransi TLO,Kendaraan,P0261,U0049,4.4,466800
+Allianz Asuransi All risk,Kendaraan,P0262,U0126,5,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0263,U0022,5,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0264,U0069,4.3,2460000
+Insureka Asuransi Mobil,Kendaraan,P0265,U0154,4.5,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0266,U0151,3.4,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0267,U0032,3.1,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0268,U0177,5,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0269,U0084,4.3,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0270,U0160,4.3,1030320
+ACA Otomate,Kendaraan,P0271,U0172,3.5,366000
+ACA Otomate Smart,Kendaraan,P0272,U0126,3.9,306000
+ACA Otomate Solitaire,Kendaraan,P0273,U0191,5,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0274,U0046,4.4,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0275,U0192,3.8,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0276,U0109,3.2,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0277,U0064,5,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0278,U0158,3.9,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0279,U0052,3.6,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0280,U0037,4.1,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0281,U0082,4.7,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0282,U0034,3.7,3377700
+MAG Asuransi TLO,Kendaraan,P0283,U0154,4.5,420000
+MAG Asuransi All risk,Kendaraan,P0284,U0075,5,2316000
+Alliannz Asuransi TLO,Kendaraan,P0285,U0054,3.2,466800
+Allianz Asuransi All risk,Kendaraan,P0286,U0068,4.1,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0287,U0085,3.7,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0288,U0002,3.1,2460000
+Insureka Asuransi Mobil,Kendaraan,P0289,U0130,3.8,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0290,U0069,3.1,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0291,U0102,4,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0292,U0119,3.7,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0293,U0139,3.6,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0294,U0109,4.5,1030320
+ACA Otomate,Kendaraan,P0295,U0114,4.5,366000
+ACA Otomate Smart,Kendaraan,P0296,U0121,3,306000
+ACA Otomate Solitaire,Kendaraan,P0297,U0013,4.3,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0298,U0023,3.7,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0299,U0037,2.3,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0300,U0033,3.9,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0301,U0175,4.6,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0302,U0075,3.1,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0303,U0021,3.9,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0304,U0019,3.7,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0305,U0055,4.4,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0306,U0136,4.4,3377700
+MAG Asuransi TLO,Kendaraan,P0307,U0191,4.3,420000
+MAG Asuransi All risk,Kendaraan,P0308,U0021,3.9,2316000
+Alliannz Asuransi TLO,Kendaraan,P0309,U0174,4.5,466800
+Allianz Asuransi All risk,Kendaraan,P0310,U0185,3.6,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0311,U0178,5,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0312,U0009,4.3,2460000
+Insureka Asuransi Mobil,Kendaraan,P0313,U0134,4.4,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0314,U0192,3.5,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0315,U0159,4.7,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0316,U0045,4.8,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0317,U0169,2.8,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0318,U0050,5,1030320
+ACA Otomate,Kendaraan,P0319,U0162,3.8,366000
+ACA Otomate Smart,Kendaraan,P0320,U0126,3.7,306000
+ACA Otomate Solitaire,Kendaraan,P0321,U0070,4.9,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0322,U0060,4.4,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0323,U0086,4.6,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0324,U0064,4.6,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0325,U0027,4.8,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0326,U0170,5,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0327,U0044,3.9,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0328,U0169,4.7,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0329,U0125,3.2,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0330,U0042,4.3,3377700
+MAG Asuransi TLO,Kendaraan,P0331,U0166,3.2,420000
+MAG Asuransi All risk,Kendaraan,P0332,U0105,4.9,2316000
+Alliannz Asuransi TLO,Kendaraan,P0333,U0006,3.4,466800
+Allianz Asuransi All risk,Kendaraan,P0334,U0098,4.2,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0335,U0131,3.6,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0336,U0144,3.4,2460000
+Insureka Asuransi Mobil,Kendaraan,P0337,U0086,5,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0338,U0009,4.3,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0339,U0161,3.7,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0340,U0179,4.6,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0341,U0154,3.3,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0342,U0160,3.6,1030320
+ACA Otomate,Kendaraan,P0343,U0100,3.2,366000
+ACA Otomate Smart,Kendaraan,P0344,U0127,4.5,306000
+ACA Otomate Solitaire,Kendaraan,P0345,U0064,4.4,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0346,U0096,3.9,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0347,U0128,5,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0348,U0009,3.3,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0349,U0058,3.2,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0350,U0032,3.8,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0351,U0038,4.5,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0352,U0165,3.1,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0353,U0127,2.7,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0354,U0006,4.3,3377700
+MAG Asuransi TLO,Kendaraan,P0355,U0069,4,420000
+MAG Asuransi All risk,Kendaraan,P0356,U0064,4.1,2316000
+Alliannz Asuransi TLO,Kendaraan,P0357,U0004,3.8,466800
+Allianz Asuransi All risk,Kendaraan,P0358,U0164,3.2,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0359,U0071,3.2,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0360,U0180,3.9,2460000
+Insureka Asuransi Mobil,Kendaraan,P0361,U0001,5,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0362,U0005,3.5,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0363,U0010,3.4,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0364,U0012,4.2,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0365,U0086,4.6,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0366,U0151,3.4,1030320
+ACA Otomate,Kendaraan,P0367,U0066,5,366000
+ACA Otomate Smart,Kendaraan,P0368,U0151,3.9,306000
+ACA Otomate Solitaire,Kendaraan,P0369,U0112,3.2,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0370,U0034,4.8,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0371,U0105,5,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0372,U0166,3.7,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0373,U0153,3.4,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0374,U0109,4.8,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0375,U0187,3.9,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0376,U0146,4.8,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0377,U0194,4.1,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0378,U0190,3.2,3377700
+MAG Asuransi TLO,Kendaraan,P0379,U0060,4,420000
+MAG Asuransi All risk,Kendaraan,P0380,U0005,4.9,2316000
+Alliannz Asuransi TLO,Kendaraan,P0381,U0164,3.9,466800
+Allianz Asuransi All risk,Kendaraan,P0382,U0103,3.8,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0383,U0009,4.7,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0384,U0076,4.2,2460000
+Insureka Asuransi Mobil,Kendaraan,P0385,U0110,4,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0386,U0018,4.3,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0387,U0027,3.4,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0388,U0186,3.9,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0389,U0043,4.2,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0390,U0054,4.5,1030320
+ACA Otomate,Kendaraan,P0391,U0139,4.1,366000
+ACA Otomate Smart,Kendaraan,P0392,U0028,4.7,306000
+ACA Otomate Solitaire,Kendaraan,P0393,U0092,4.3,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0394,U0097,4.3,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0395,U0068,3.1,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0396,U0091,4.2,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0397,U0016,2.8,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0398,U0181,4.9,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0399,U0106,3.7,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0400,U0036,4.1,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0401,U0178,3.6,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0402,U0083,2.5,3377700
+MAG Asuransi TLO,Kendaraan,P0403,U0022,4.5,420000
+MAG Asuransi All risk,Kendaraan,P0404,U0161,3.9,2316000
+Alliannz Asuransi TLO,Kendaraan,P0405,U0030,4,466800
+Allianz Asuransi All risk,Kendaraan,P0406,U0164,4.2,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0407,U0159,4.6,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0408,U0081,4,2460000
+Insureka Asuransi Mobil,Kendaraan,P0409,U0004,4.3,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0410,U0116,3.8,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0411,U0058,4.5,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0412,U0005,4.5,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0413,U0182,3.1,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0414,U0076,4.4,1030320
+ACA Otomate,Kendaraan,P0415,U0068,3.9,366000
+ACA Otomate Smart,Kendaraan,P0416,U0040,5,306000
+ACA Otomate Solitaire,Kendaraan,P0417,U0167,4.4,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0418,U0147,3.7,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0419,U0104,5,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0420,U0176,4.2,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0421,U0199,3.9,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0422,U0069,3.6,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0423,U0143,3.7,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0424,U0017,4.5,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0425,U0158,5,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0426,U0156,4.7,3377700
+MAG Asuransi TLO,Kendaraan,P0427,U0063,4.5,420000
+MAG Asuransi All risk,Kendaraan,P0428,U0065,4.4,2316000
+Alliannz Asuransi TLO,Kendaraan,P0429,U0152,3.4,466800
+Allianz Asuransi All risk,Kendaraan,P0430,U0013,4.2,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0431,U0080,4.3,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0432,U0036,4.2,2460000
+Insureka Asuransi Mobil,Kendaraan,P0433,U0178,2.8,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0434,U0089,4,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0435,U0116,5,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0436,U0185,4,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0437,U0169,3.7,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0438,U0158,4,1030320
+ACA Otomate,Kendaraan,P0439,U0042,3.1,366000
+ACA Otomate Smart,Kendaraan,P0440,U0188,3.4,306000
+ACA Otomate Solitaire,Kendaraan,P0441,U0002,5,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0442,U0109,4.1,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0443,U0113,4.1,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0444,U0177,3.2,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0445,U0090,5,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0446,U0035,3.8,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0447,U0118,4.4,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0448,U0011,4.6,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0449,U0073,3,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0450,U0186,4.4,3377700
+MAG Asuransi TLO,Kendaraan,P0451,U0098,3.9,420000
+MAG Asuransi All risk,Kendaraan,P0452,U0171,4.2,2316000
+Alliannz Asuransi TLO,Kendaraan,P0453,U0020,3,466800
+Allianz Asuransi All risk,Kendaraan,P0454,U0018,4.8,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0455,U0061,3.2,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0456,U0079,4.7,2460000
+Insureka Asuransi Mobil,Kendaraan,P0457,U0168,3.7,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0458,U0026,3.3,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0459,U0199,2.9,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0460,U0030,4.1,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0461,U0029,4.2,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0462,U0004,4.7,1030320
+ACA Otomate,Kendaraan,P0463,U0002,4.8,366000
+ACA Otomate Smart,Kendaraan,P0464,U0098,4.2,306000
+ACA Otomate Solitaire,Kendaraan,P0465,U0195,4.2,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0466,U0001,4.3,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0467,U0083,3.5,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0468,U0193,4.5,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0469,U0189,4.1,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0470,U0135,4.2,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0471,U0180,3.7,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0472,U0110,4.1,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0473,U0077,4.2,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0474,U0184,3.4,3377700
+MAG Asuransi TLO,Kendaraan,P0475,U0158,4,420000
+MAG Asuransi All risk,Kendaraan,P0476,U0193,3.3,2316000
+Alliannz Asuransi TLO,Kendaraan,P0477,U0113,4.5,466800
+Allianz Asuransi All risk,Kendaraan,P0478,U0107,3.3,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0479,U0165,2.9,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0480,U0153,4.9,2460000
+Insureka Asuransi Mobil,Kendaraan,P0481,U0120,3.6,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0482,U0025,4.7,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0483,U0137,4.7,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0484,U0197,3.8,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0485,U0089,4,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0486,U0006,4.6,1030320
+ACA Otomate,Kendaraan,P0487,U0122,3.5,366000
+ACA Otomate Smart,Kendaraan,P0488,U0090,3.7,306000
+ACA Otomate Solitaire,Kendaraan,P0489,U0060,3.3,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0490,U0160,4.5,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0491,U0102,4,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0492,U0046,4.7,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0493,U0096,3.9,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0494,U0197,3.1,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0495,U0035,4.6,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0496,U0180,3.7,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0497,U0002,2.9,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0498,U0031,3.7,3377700
+MAG Asuransi TLO,Kendaraan,P0499,U0039,4.9,420000
+MAG Asuransi All risk,Kendaraan,P0500,U0158,2.8,2316000
+Alliannz Asuransi TLO,Kendaraan,P0501,U0028,4,466800
+Allianz Asuransi All risk,Kendaraan,P0502,U0087,5,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0503,U0097,4.2,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0504,U0019,3,2460000
+Insureka Asuransi Mobil,Kendaraan,P0505,U0063,4.1,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0506,U0140,4.9,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0507,U0027,3,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0508,U0125,3.3,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0509,U0122,4.2,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0510,U0012,2.4,1030320
+ACA Otomate,Kendaraan,P0511,U0026,3.8,366000
+ACA Otomate Smart,Kendaraan,P0512,U0069,4.6,306000
+ACA Otomate Solitaire,Kendaraan,P0513,U0096,4.5,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0514,U0051,4,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0515,U0161,3.7,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0516,U0111,3.2,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0517,U0196,3.5,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0518,U0100,3.2,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0519,U0050,4.6,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0520,U0153,5,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0521,U0083,4,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0522,U0005,4.1,3377700
+MAG Asuransi TLO,Kendaraan,P0523,U0068,3.5,420000
+MAG Asuransi All risk,Kendaraan,P0524,U0074,2.7,2316000
+Alliannz Asuransi TLO,Kendaraan,P0525,U0129,4.4,466800
+Allianz Asuransi All risk,Kendaraan,P0526,U0085,3.8,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0527,U0098,5,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0528,U0188,4.5,2460000
+Insureka Asuransi Mobil,Kendaraan,P0529,U0153,4.4,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0530,U0114,4.9,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0531,U0107,4.4,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0532,U0095,5,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0533,U0172,4.3,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0534,U0075,3.8,1030320
+ACA Otomate,Kendaraan,P0535,U0078,3.9,366000
+ACA Otomate Smart,Kendaraan,P0536,U0112,3.2,306000
+ACA Otomate Solitaire,Kendaraan,P0537,U0017,4.4,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0538,U0187,4.1,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0539,U0084,4.7,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0540,U0038,3.7,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0541,U0116,3.3,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0542,U0072,4.3,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0543,U0195,3.3,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0544,U0021,3.5,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0545,U0196,4.8,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0546,U0110,5,3377700
+MAG Asuransi TLO,Kendaraan,P0547,U0153,3.4,420000
+MAG Asuransi All risk,Kendaraan,P0548,U0157,3.8,2316000
+Alliannz Asuransi TLO,Kendaraan,P0549,U0110,4.1,466800
+Allianz Asuransi All risk,Kendaraan,P0550,U0092,4.7,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0551,U0159,3.3,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0552,U0190,3.9,2460000
+Insureka Asuransi Mobil,Kendaraan,P0553,U0139,2.7,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0554,U0081,3.4,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0555,U0071,4.2,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0556,U0112,4.1,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0557,U0183,4.4,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0558,U0065,3.2,1030320
+ACA Otomate,Kendaraan,P0559,U0198,4,366000
+ACA Otomate Smart,Kendaraan,P0560,U0155,4.2,306000
+ACA Otomate Solitaire,Kendaraan,P0561,U0132,3.8,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0562,U0028,3.4,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0563,U0058,3.4,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0564,U0121,4.1,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0565,U0051,4.7,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0566,U0045,3.3,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0567,U0175,4.1,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0568,U0013,3.5,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0569,U0028,4.4,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0570,U0184,3.5,3377700
+MAG Asuransi TLO,Kendaraan,P0571,U0034,4.4,420000
+MAG Asuransi All risk,Kendaraan,P0572,U0192,4.2,2316000
+Alliannz Asuransi TLO,Kendaraan,P0573,U0110,3.8,466800
+Allianz Asuransi All risk,Kendaraan,P0574,U0003,4.3,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0575,U0137,4.2,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0576,U0121,4.1,2460000
+Insureka Asuransi Mobil,Kendaraan,P0577,U0100,4.2,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0578,U0094,4.2,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0579,U0003,3.8,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0580,U0030,3.5,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0581,U0036,5,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0582,U0178,4.6,1030320
+ACA Otomate,Kendaraan,P0583,U0028,2.6,366000
+ACA Otomate Smart,Kendaraan,P0584,U0098,4.6,306000
+ACA Otomate Solitaire,Kendaraan,P0585,U0041,3.4,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0586,U0192,3.8,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0587,U0099,4.2,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0588,U0018,4.4,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0589,U0091,3.9,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0590,U0027,4.3,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0591,U0047,3.9,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0592,U0142,5,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0593,U0127,3.5,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0594,U0098,3.4,3377700
+MAG Asuransi TLO,Kendaraan,P0595,U0084,3.6,420000
+MAG Asuransi All risk,Kendaraan,P0596,U0112,4.2,2316000
+Alliannz Asuransi TLO,Kendaraan,P0597,U0162,2.9,466800
+Allianz Asuransi All risk,Kendaraan,P0598,U0007,4.1,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0599,U0126,3.1,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0600,U0040,4,2460000
+Insureka Asuransi Mobil,Kendaraan,P0601,U0121,4.8,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0602,U0191,4.8,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0603,U0010,3.1,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0604,U0198,4.2,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0605,U0086,3.6,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0606,U0074,5,1030320
+ACA Otomate,Kendaraan,P0607,U0014,4.2,366000
+ACA Otomate Smart,Kendaraan,P0608,U0158,3.4,306000
+ACA Otomate Solitaire,Kendaraan,P0609,U0075,3.8,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0610,U0158,5,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0611,U0068,3,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0612,U0135,4.8,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0613,U0061,2.4,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0614,U0021,4,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0615,U0043,4,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0616,U0188,4.1,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0617,U0195,3.5,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0618,U0131,5,3377700
+MAG Asuransi TLO,Kendaraan,P0619,U0139,4.1,420000
+MAG Asuransi All risk,Kendaraan,P0620,U0183,4.3,2316000
+Alliannz Asuransi TLO,Kendaraan,P0621,U0003,4,466800
+Allianz Asuransi All risk,Kendaraan,P0622,U0024,5,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0623,U0198,3.3,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0624,U0042,3.3,2460000
+Insureka Asuransi Mobil,Kendaraan,P0625,U0198,4.1,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0626,U0070,3.8,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0627,U0097,3.8,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0628,U0109,4,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0629,U0082,5,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0630,U0044,3.1,1030320
+ACA Otomate,Kendaraan,P0631,U0164,3.9,366000
+ACA Otomate Smart,Kendaraan,P0632,U0157,4,306000
+ACA Otomate Solitaire,Kendaraan,P0633,U0029,5,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0634,U0151,3.1,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0635,U0194,4.1,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0636,U0136,4.4,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0637,U0017,3.2,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0638,U0183,2.5,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0639,U0132,3.7,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0640,U0186,5,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0641,U0149,4.1,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0642,U0128,4.3,3377700
+MAG Asuransi TLO,Kendaraan,P0643,U0112,3.7,420000
+MAG Asuransi All risk,Kendaraan,P0644,U0080,3.9,2316000
+Alliannz Asuransi TLO,Kendaraan,P0645,U0185,3.7,466800
+Allianz Asuransi All risk,Kendaraan,P0646,U0036,4.5,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0647,U0046,2.8,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0648,U0178,3.3,2460000
+Insureka Asuransi Mobil,Kendaraan,P0649,U0162,3.7,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0650,U0032,4.7,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0651,U0189,3.9,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0652,U0077,3.3,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0653,U0114,4.3,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0654,U0086,4.5,1030320
+ACA Otomate,Kendaraan,P0655,U0099,4.5,366000
+ACA Otomate Smart,Kendaraan,P0656,U0029,5,306000
+ACA Otomate Solitaire,Kendaraan,P0657,U0115,2.8,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0658,U0148,3,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0659,U0133,3.9,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0660,U0013,4.7,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0661,U0013,4.5,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0662,U0148,4.2,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0663,U0028,4.8,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0664,U0182,3.6,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0665,U0089,3.8,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0666,U0019,2.4,3377700
+MAG Asuransi TLO,Kendaraan,P0667,U0113,3.9,420000
+MAG Asuransi All risk,Kendaraan,P0668,U0129,3.7,2316000
+Alliannz Asuransi TLO,Kendaraan,P0669,U0011,3.9,466800
+Allianz Asuransi All risk,Kendaraan,P0670,U0073,5,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0671,U0117,4.9,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0672,U0175,4.2,2460000
+Insureka Asuransi Mobil,Kendaraan,P0673,U0101,4.4,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0674,U0069,3.8,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0675,U0001,3.8,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0676,U0158,4.3,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0677,U0030,3.8,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0678,U0027,3.5,1030320
+ACA Otomate,Kendaraan,P0679,U0080,5,366000
+ACA Otomate Smart,Kendaraan,P0680,U0082,3.8,306000
+ACA Otomate Solitaire,Kendaraan,P0681,U0041,4.8,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0682,U0041,3.6,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0683,U0173,3.8,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0684,U0020,3.9,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0685,U0124,4.5,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0686,U0177,4.7,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0687,U0181,4,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0688,U0049,5,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0689,U0152,3.6,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0690,U0167,4,3377700
+MAG Asuransi TLO,Kendaraan,P0691,U0112,4.9,420000
+MAG Asuransi All risk,Kendaraan,P0692,U0199,3.2,2316000
+Alliannz Asuransi TLO,Kendaraan,P0693,U0096,3.8,466800
+Allianz Asuransi All risk,Kendaraan,P0694,U0065,3.4,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0695,U0195,4.3,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0696,U0058,4.7,2460000
+Insureka Asuransi Mobil,Kendaraan,P0697,U0184,4.4,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0698,U0050,3.4,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0699,U0100,4.5,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0700,U0023,2.7,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0701,U0200,3.8,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0702,U0007,4.2,1030320
+ACA Otomate,Kendaraan,P0703,U0144,3.4,366000
+ACA Otomate Smart,Kendaraan,P0704,U0014,3,306000
+ACA Otomate Solitaire,Kendaraan,P0705,U0113,3.1,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0706,U0133,4.6,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0707,U0072,3.9,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0708,U0077,4.1,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0709,U0032,4,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0710,U0046,4.2,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0711,U0033,4.3,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0712,U0117,4.1,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0713,U0168,4.2,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0714,U0013,4.2,3377700
+MAG Asuransi TLO,Kendaraan,P0715,U0043,4.6,420000
+MAG Asuransi All risk,Kendaraan,P0716,U0133,4,2316000
+Alliannz Asuransi TLO,Kendaraan,P0717,U0192,3.9,466800
+Allianz Asuransi All risk,Kendaraan,P0718,U0125,3.7,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0719,U0103,4.1,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0720,U0055,3.6,2460000
+Insureka Asuransi Mobil,Kendaraan,P0721,U0092,3.4,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0722,U0100,3.7,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0723,U0004,4.8,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0724,U0059,3.9,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0725,U0106,2.6,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0726,U0114,2.6,1030320
+ACA Otomate,Kendaraan,P0727,U0190,2.4,366000
+ACA Otomate Smart,Kendaraan,P0728,U0062,4.4,306000
+ACA Otomate Solitaire,Kendaraan,P0729,U0044,3.2,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0730,U0193,4.6,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0731,U0119,4.2,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0732,U0050,4.2,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0733,U0107,4.6,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0734,U0020,4,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0735,U0160,3.5,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0736,U0035,3.8,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0737,U0157,3.3,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0738,U0044,4.5,3377700
+MAG Asuransi TLO,Kendaraan,P0739,U0166,4,420000
+MAG Asuransi All risk,Kendaraan,P0740,U0059,3.1,2316000
+Alliannz Asuransi TLO,Kendaraan,P0741,U0094,4.8,466800
+Allianz Asuransi All risk,Kendaraan,P0742,U0088,2.6,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0743,U0153,4,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0744,U0115,3.2,2460000
+Insureka Asuransi Mobil,Kendaraan,P0745,U0023,3.6,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0746,U0123,3,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0747,U0161,5,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0748,U0013,5,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0749,U0019,5,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0750,U0137,4,1030320
+ACA Otomate,Kendaraan,P0751,U0021,4.7,366000
+ACA Otomate Smart,Kendaraan,P0752,U0183,4.2,306000
+ACA Otomate Solitaire,Kendaraan,P0753,U0131,3.9,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0754,U0094,4.3,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0755,U0044,4.4,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0756,U0093,3,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0757,U0003,4.2,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0758,U0180,3.3,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0759,U0160,4.2,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0760,U0177,4.2,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0761,U0108,4.6,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0762,U0155,3.4,3377700
+MAG Asuransi TLO,Kendaraan,P0763,U0186,3.3,420000
+MAG Asuransi All risk,Kendaraan,P0764,U0008,4,2316000
+Alliannz Asuransi TLO,Kendaraan,P0765,U0051,2.9,466800
+Allianz Asuransi All risk,Kendaraan,P0766,U0161,3.9,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0767,U0039,3.9,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0768,U0180,4.8,2460000
+Insureka Asuransi Mobil,Kendaraan,P0769,U0044,4.2,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0770,U0110,5,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0771,U0003,3.7,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0772,U0176,4.2,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0773,U0056,3.4,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0774,U0062,4.6,1030320
+ACA Otomate,Kendaraan,P0775,U0024,4.3,366000
+ACA Otomate Smart,Kendaraan,P0776,U0165,3.9,306000
+ACA Otomate Solitaire,Kendaraan,P0777,U0017,4.4,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0778,U0200,4.6,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0779,U0131,4.3,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0780,U0158,3.6,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0781,U0134,4.5,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0782,U0154,3.6,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0783,U0016,4.5,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0784,U0187,3.8,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0785,U0106,4.6,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0786,U0180,2.8,3377700
+MAG Asuransi TLO,Kendaraan,P0787,U0047,4.2,420000
+MAG Asuransi All risk,Kendaraan,P0788,U0162,3.6,2316000
+Alliannz Asuransi TLO,Kendaraan,P0789,U0036,4.3,466800
+Allianz Asuransi All risk,Kendaraan,P0790,U0126,2.8,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0791,U0181,4.4,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0792,U0166,3.7,2460000
+Insureka Asuransi Mobil,Kendaraan,P0793,U0061,3.7,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0794,U0177,4.6,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0795,U0109,4.4,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0796,U0084,3.1,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0797,U0081,4.5,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0798,U0030,3.1,1030320
+ACA Otomate,Kendaraan,P0799,U0136,3.1,366000
+ACA Otomate Smart,Kendaraan,P0800,U0066,3.6,306000
+ACA Otomate Solitaire,Kendaraan,P0801,U0200,3.3,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0802,U0164,4,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0803,U0193,2.6,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0804,U0122,3.4,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0805,U0195,4.3,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0806,U0115,4.3,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0807,U0168,3.3,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0808,U0180,3.7,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0809,U0064,3.5,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0810,U0044,4.9,3377700
+MAG Asuransi TLO,Kendaraan,P0811,U0098,3.4,420000
+MAG Asuransi All risk,Kendaraan,P0812,U0025,3.8,2316000
+Alliannz Asuransi TLO,Kendaraan,P0813,U0018,4.5,466800
+Allianz Asuransi All risk,Kendaraan,P0814,U0108,3.7,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0815,U0148,4.1,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0816,U0013,3.4,2460000
+Insureka Asuransi Mobil,Kendaraan,P0817,U0193,3.5,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0818,U0020,4.4,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0819,U0192,3.2,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0820,U0107,3.8,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0821,U0190,4.3,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0822,U0034,3.9,1030320
+ACA Otomate,Kendaraan,P0823,U0077,3.7,366000
+ACA Otomate Smart,Kendaraan,P0824,U0188,4,306000
+ACA Otomate Solitaire,Kendaraan,P0825,U0093,3.6,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0826,U0197,4.9,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0827,U0173,5,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0828,U0004,5,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0829,U0200,5,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0830,U0144,3.6,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0831,U0140,5,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0832,U0068,4,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0833,U0128,4.9,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0834,U0101,4.9,3377700
+MAG Asuransi TLO,Kendaraan,P0835,U0107,3.8,420000
+MAG Asuransi All risk,Kendaraan,P0836,U0197,2.4,2316000
+Alliannz Asuransi TLO,Kendaraan,P0837,U0064,5,466800
+Allianz Asuransi All risk,Kendaraan,P0838,U0063,3.8,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0839,U0032,4.4,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0840,U0007,3.7,2460000
+Insureka Asuransi Mobil,Kendaraan,P0841,U0073,3.9,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0842,U0149,3.9,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0843,U0072,4.3,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0844,U0093,4,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0845,U0143,2.7,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0846,U0155,3.2,1030320
+ACA Otomate,Kendaraan,P0847,U0093,4.6,366000
+ACA Otomate Smart,Kendaraan,P0848,U0022,4.5,306000
+ACA Otomate Solitaire,Kendaraan,P0849,U0092,4.6,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0850,U0031,3.9,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0851,U0033,4.6,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0852,U0067,4.2,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0853,U0098,4.1,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0854,U0018,3.5,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0855,U0035,4.4,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0856,U0171,5,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0857,U0076,3.6,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0858,U0052,5,3377700
+MAG Asuransi TLO,Kendaraan,P0859,U0164,3.5,420000
+MAG Asuransi All risk,Kendaraan,P0860,U0007,3.1,2316000
+Alliannz Asuransi TLO,Kendaraan,P0861,U0123,5,466800
+Allianz Asuransi All risk,Kendaraan,P0862,U0147,4.6,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0863,U0184,4.7,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0864,U0123,3.1,2460000
+Insureka Asuransi Mobil,Kendaraan,P0865,U0015,4.3,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0866,U0125,4.6,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0867,U0112,4.4,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0868,U0120,4.8,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0869,U0198,4.2,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0870,U0103,4.3,1030320
+ACA Otomate,Kendaraan,P0871,U0161,4.2,366000
+ACA Otomate Smart,Kendaraan,P0872,U0112,5,306000
+ACA Otomate Solitaire,Kendaraan,P0873,U0076,4.2,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0874,U0129,4.7,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0875,U0191,2.6,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0876,U0015,4,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0877,U0112,4.1,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0878,U0198,2.6,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0879,U0184,2.9,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0880,U0176,3.6,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0881,U0057,5,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0882,U0178,3.7,3377700
+MAG Asuransi TLO,Kendaraan,P0883,U0016,4.1,420000
+MAG Asuransi All risk,Kendaraan,P0884,U0003,4.5,2316000
+Alliannz Asuransi TLO,Kendaraan,P0885,U0128,4.6,466800
+Allianz Asuransi All risk,Kendaraan,P0886,U0154,4.1,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0887,U0014,2.4,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0888,U0163,3.4,2460000
+Insureka Asuransi Mobil,Kendaraan,P0889,U0170,3.3,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0890,U0065,3.6,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0891,U0097,3.5,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0892,U0157,3.3,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0893,U0132,4,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0894,U0171,5,1030320
+ACA Otomate,Kendaraan,P0895,U0050,5,366000
+ACA Otomate Smart,Kendaraan,P0896,U0104,3.9,306000
+ACA Otomate Solitaire,Kendaraan,P0897,U0053,4.6,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0898,U0130,4.4,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0899,U0122,4.7,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0900,U0152,4.3,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0901,U0197,3.4,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0902,U0086,4.1,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0903,U0025,4.2,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0904,U0106,2.9,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0905,U0182,4.2,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0906,U0130,4.7,3377700
+MAG Asuransi TLO,Kendaraan,P0907,U0118,3.8,420000
+MAG Asuransi All risk,Kendaraan,P0908,U0186,3.7,2316000
+Alliannz Asuransi TLO,Kendaraan,P0909,U0060,4,466800
+Allianz Asuransi All risk,Kendaraan,P0910,U0114,4.3,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0911,U0027,4.3,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0912,U0083,3.4,2460000
+Insureka Asuransi Mobil,Kendaraan,P0913,U0060,5,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0914,U0103,5,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0915,U0128,4.5,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0916,U0122,4.8,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0917,U0112,3,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0918,U0189,3.1,1030320
+ACA Otomate,Kendaraan,P0919,U0089,4.6,366000
+ACA Otomate Smart,Kendaraan,P0920,U0006,4.3,306000
+ACA Otomate Solitaire,Kendaraan,P0921,U0140,3.6,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0922,U0157,3.8,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0923,U0019,4.3,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0924,U0110,4.4,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0925,U0111,4.6,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0926,U0046,4.2,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0927,U0058,5,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0928,U0153,4.9,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0929,U0020,2.5,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0930,U0085,3.4,3377700
+MAG Asuransi TLO,Kendaraan,P0931,U0135,4.5,420000
+MAG Asuransi All risk,Kendaraan,P0932,U0171,4.6,2316000
+Alliannz Asuransi TLO,Kendaraan,P0933,U0034,3.8,466800
+Allianz Asuransi All risk,Kendaraan,P0934,U0155,4.1,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0935,U0018,3.7,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0936,U0122,3.1,2460000
+Insureka Asuransi Mobil,Kendaraan,P0937,U0001,3.1,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0938,U0131,4.1,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0939,U0199,4.3,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0940,U0079,5,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0941,U0148,4.4,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0942,U0029,4.9,1030320
+ACA Otomate,Kendaraan,P0943,U0175,2.6,366000
+ACA Otomate Smart,Kendaraan,P0944,U0059,3.4,306000
+ACA Otomate Solitaire,Kendaraan,P0945,U0157,4,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0946,U0185,3.7,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0947,U0183,4.2,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0948,U0198,4.3,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0949,U0130,4.8,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0950,U0038,4.1,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0951,U0028,4.7,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0952,U0197,5,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0953,U0167,4.4,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0954,U0152,3.1,3377700
+MAG Asuransi TLO,Kendaraan,P0955,U0126,4.5,420000
+MAG Asuransi All risk,Kendaraan,P0956,U0108,3.9,2316000
+Alliannz Asuransi TLO,Kendaraan,P0957,U0199,4.1,466800
+Allianz Asuransi All risk,Kendaraan,P0958,U0126,4.2,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0959,U0187,3.4,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0960,U0197,3.6,2460000
+Insureka Asuransi Mobil,Kendaraan,P0961,U0094,3.1,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0962,U0105,3.3,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0963,U0123,4,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0964,U0102,4.4,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0965,U0096,3.8,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0966,U0071,4.2,1030320
+ACA Otomate,Kendaraan,P0967,U0155,3.4,366000
+ACA Otomate Smart,Kendaraan,P0968,U0028,5,306000
+ACA Otomate Solitaire,Kendaraan,P0969,U0083,4.6,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0970,U0013,3.3,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0971,U0186,3,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0972,U0173,5,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0973,U0168,4.1,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0974,U0060,3.2,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0975,U0158,4,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P0976,U0100,4.4,2100000
+Adira Autocillin Asuransi TLO,Kendaraan,P0977,U0062,5,862800
+Adira Autocillin Asuransi All risk,Kendaraan,P0978,U0031,4.4,3377700
+MAG Asuransi TLO,Kendaraan,P0979,U0082,4.6,420000
+MAG Asuransi All risk,Kendaraan,P0980,U0099,4.6,2316000
+Alliannz Asuransi TLO,Kendaraan,P0981,U0109,3.9,466800
+Allianz Asuransi All risk,Kendaraan,P0982,U0152,5,2908008
+Tokio Marine Asuransi TLO,Kendaraan,P0983,U0198,4.2,432000
+Tokio Marine Asuransi All risk,Kendaraan,P0984,U0054,4.7,2460000
+Insureka Asuransi Mobil,Kendaraan,P0985,U0095,3.8,1054166
+Insureka Asuransi Mobil All Risk,Kendaraan,P0986,U0107,4.8,1106040
+Insureka Asuransi Mobil TLO,Kendaraan,P0987,U0151,3.7,1106040
+Insureka Asuransi Mobil Comprehensive,Kendaraan,P0988,U0154,2.9,1106040
+Insureka Asuransi Mobil Wuling,Kendaraan,P0989,U0102,2.7,896610
+Insureka Asuransi Mobil BYD,Kendaraan,P0990,U0129,3.8,1030320
+ACA Otomate,Kendaraan,P0991,U0102,3.8,366000
+ACA Otomate Smart,Kendaraan,P0992,U0085,4.7,306000
+ACA Otomate Solitaire,Kendaraan,P0993,U0117,4.6,360000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0994,U0174,4,100000
+Asuransi Simas Mobil Exclusive,Kendaraan,P0995,U0083,4.2,100000
+Asuransi Kendaraan Bermotor Simas,Kendaraan,P0996,U0073,3.2,100000
+Asuransi Simas Mikro Autobike,Kendaraan,P0997,U0086,4.2,50000
+Asurasni Simas Mobil Bonus,Kendaraan,P0998,U0154,4.4,100000
+Tugu Pratama Indonesia Asuransi TLO,Kendaraan,P0999,U0154,4.7,420000
+Tugu Pratama Indonesia Asuransi All risk,Kendaraan,P1000,U0078,3.6,2100000

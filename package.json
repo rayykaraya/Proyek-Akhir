@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^1.9.0",
+    "hapi-cors-headers": "^1.0.3"
+  }
+}

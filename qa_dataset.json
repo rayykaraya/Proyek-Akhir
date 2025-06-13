@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Apa tujuan dari asuransi?",
+    "context": "Asuransi bertujuan untuk memberikan perlindungan finansial terhadap risiko yang tidak terduga.",
+    "answers": {
+      "text": [
+        "memberikan perlindungan finansial"
+      ],
+      "answer_start": [
+        28
+      ]
+    }
+  },
+  {
+    "question": "Apa yang dimaksud dengan premi?",
+    "context": "Premi adalah sejumlah uang yang dibayarkan oleh pemegang polis kepada perusahaan asuransi.",
+    "answers": {
+      "text": [
+        "sejumlah uang"
+      ],
+      "answer_start": [
+        10
+      ]
+    }
+  }
+]
