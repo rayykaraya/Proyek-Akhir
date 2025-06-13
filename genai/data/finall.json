@@ -1,0 +1,307 @@
+[
+  {
+    "instruction": "Apa itu asuransi?",
+    "input": "",
+    "output": "Asuransi adalah perjanjian perlindungan finansial atas risiko tertentu dengan membayar premi kepada perusahaan asuransi."
+  },
+  {
+    "instruction": "Apa itu premi asuransi?",
+    "input": "",
+    "output": "Premi adalah sejumlah uang yang dibayarkan secara rutin oleh nasabah untuk mendapatkan perlindungan dari asuransi."
+  },
+  {
+    "instruction": "Bagaimana cara klaim asuransi?",
+    "input": "",
+    "output": "Klaim dilakukan dengan menghubungi perusahaan asuransi, melengkapi dokumen yang dibutuhkan, dan menunggu persetujuan klaim."
+  },
+  {
+    "instruction": "Apa itu asuransi kesehatan?",
+    "input": "",
+    "output": "Asuransi kesehatan menanggung biaya pengobatan atau perawatan kesehatan ketika tertanggung sakit atau mengalami kecelakaan."
+  },
+  {
+    "instruction": "Apa manfaat memiliki asuransi?",
+    "input": "",
+    "output": "Manfaat asuransi antara lain: perlindungan finansial, ketenangan pikiran, dan persiapan terhadap risiko tak terduga."
+  },
+  {
+    "instruction": "Apa itu polis asuransi?",
+    "input": "",
+    "output": "Polis asuransi adalah dokumen kontrak resmi antara pemegang polis dan perusahaan asuransi yang berisi syarat dan ketentuan perlindungan."
+  },
+  {
+    "instruction": "Apa perbedaan asuransi jiwa dan asuransi kesehatan?",
+    "input": "",
+    "output": "Asuransi jiwa memberikan manfaat finansial kepada ahli waris jika tertanggung meninggal dunia, sedangkan asuransi kesehatan menanggung biaya pengobatan dan perawatan kesehatan."
+  },
+  {
+    "instruction": "Apa itu Uang Pertanggungan (UP)?",
+    "input": "",
+    "output": "Uang Pertanggungan (UP) adalah jumlah santunan yang akan dibayarkan oleh perusahaan asuransi kepada ahli waris atau tertanggung jika terjadi risiko yang dijamin dalam polis."
+  },
+  {
+    "instruction": "Apa itu masa tenggang pembayaran premi?",
+    "input": "",
+    "output": "Masa tenggang pembayaran premi adalah periode waktu tertentu setelah tanggal jatuh tempo premi di mana pemegang polis masih diizinkan untuk membayar premi tanpa dikenakan denda atau pembatalan polis."
+  },
+  {
+    "instruction": "Apa itu deductible dalam asuransi?",
+    "input": "",
+    "output": "Deductible adalah jumlah uang yang harus dibayar sendiri oleh pemegang polis sebelum perusahaan asuransi mulai menanggung biaya klaim."
+  },
+  {
+    "instruction": "Apa itu ko-asuransi (co-insurance)?",
+    "input": "",
+    "output": "Ko-asuransi adalah persentase biaya klaim yang harus ditanggung oleh pemegang polis setelah deductible terpenuhi."
+  },
+  {
+    "instruction": "Apa itu asuransi kerugian?",
+    "input": "",
+    "output": "Asuransi kerugian melindungi aset dari risiko kehilangan atau kerusakan akibat peristiwa tertentu seperti kebakaran, pencurian, atau bencana alam."
+  },
+  {
+    "instruction": "Apa itu asuransi kendaraan?",
+    "input": "",
+    "output": "Asuransi kendaraan memberikan perlindungan finansial terhadap risiko kerusakan, kehilangan, atau tanggung jawab hukum akibat penggunaan kendaraan."
+  },
+  {
+    "instruction": "Apa itu masa tunggu dalam asuransi kesehatan?",
+    "input": "",
+    "output": "Masa tunggu adalah periode waktu tertentu setelah polis aktif di mana pemegang polis belum dapat mengajukan klaim untuk kondisi atau penyakit tertentu."
+  },
+  {
+    "instruction": "Bagaimana cara memilih asuransi yang tepat?",
+    "input": "",
+    "output": "Memilih asuransi yang tepat melibatkan penilaian kebutuhan individu, membandingkan berbagai produk dan premi dari perusahaan asuransi yang berbeda, serta memahami syarat dan ketentuan polis."
+  },
+  {
+    "instruction": "Apa itu asuransi properti?",
+    "input": "",
+    "output": "Asuransi properti adalah jenis asuransi yang melindungi bangunan dan isinya dari risiko kerugian akibat kebakaran, bencana alam, pencurian, dan risiko lainnya."
+  },
+  {
+    "instruction": "Apa itu asuransi perjalanan?",
+    "input": "",
+    "output": "Asuransi perjalanan memberikan perlindungan finansial selama perjalanan, mencakup risiko pembatalan perjalanan, kehilangan bagasi, kecelakaan, atau biaya medis darurat di luar negeri."
+  },
+  {
+    "instruction": "Apa itu asuransi pendidikan?",
+    "input": "",
+    "output": "Asuransi pendidikan adalah produk asuransi yang dirancang untuk menjamin ketersediaan dana pendidikan anak di masa depan, bahkan jika orang tua meninggal dunia atau mengalami cacat total tetap."
+  },
+  {
+    "instruction": "Apa itu asuransi dwiguna (endowment insurance)?",
+    "input": "",
+    "output": "Asuransi dwiguna adalah jenis asuransi jiwa yang memberikan perlindungan dan juga elemen tabungan, di mana pemegang polis akan menerima sejumlah uang pada akhir masa kontrak atau jika meninggal dunia lebih awal."
+  },
+  {
+    "instruction": "Apa itu asuransi unit link?",
+    "input": "",
+    "output": "Asuransi unit link adalah produk asuransi yang mengkombinasikan perlindungan asuransi dengan investasi, di mana sebagian premi digunakan untuk asuransi dan sebagian lainnya diinvestasikan dalam unit dana."
+  },
+  {
+    "instruction": "Apa itu ahli waris dalam asuransi jiwa?",
+    "input": "",
+    "output": "Ahli waris adalah orang atau pihak yang ditunjuk oleh pemegang polis untuk menerima uang pertanggungan jika tertanggung meninggal dunia."
+  },
+  {
+    "instruction": "Apa itu risiko dalam asuransi?",
+    "input": "",
+    "output": "Risiko dalam asuransi adalah kemungkinan terjadinya peristiwa yang tidak diinginkan yang dapat menimbulkan kerugian finansial."
+  },
+  {
+    "instruction": "Apa itu agen asuransi?",
+    "input": "",
+    "output": "Agen asuransi adalah perwakilan perusahaan asuransi yang bertugas memasarkan produk asuransi, membantu nasabah dalam proses pengajuan polis, dan memberikan informasi."
+  },
+  {
+    "instruction": "Apa itu underwriter asuransi?",
+    "input": "",
+    "output": "Underwriter asuransi adalah profesional yang menilai risiko pemohon asuransi dan menentukan apakah akan menyetujui polis, serta menetapkan premi yang sesuai."
+  },
+  {
+    "instruction": "Apa itu reasuransi?",
+    "input": "",
+    "output": "Reasuransi adalah perjanjian di mana satu perusahaan asuransi (reasuradur) menanggung sebagian risiko dari perusahaan asuransi lain (cedent) untuk mengurangi eksposur risiko cedent."
+  },
+  {
+    "instruction": "Apa itu asuransi tanggung jawab hukum (liability insurance)?",
+    "input": "",
+    "output": "Asuransi tanggung jawab hukum memberikan perlindungan finansial kepada tertanggung jika terjadi tuntutan hukum atas kerugian atau cedera yang disebabkan kepada pihak ketiga."
+  },
+  {
+    "instruction": "Apa itu pengecualian dalam polis asuransi?",
+    "input": "",
+    "output": "Pengecualian adalah kondisi atau kejadian yang tidak ditanggung oleh polis asuransi, yang berarti perusahaan asuransi tidak akan membayar klaim jika kerugian terjadi akibat penyebab tersebut."
+  },
+  {
+    "instruction": "Apa itu inflasi medis?",
+    "input": "",
+    "output": "Inflasi medis adalah kenaikan biaya layanan kesehatan dari waktu ke waktu yang lebih tinggi daripada inflasi ekonomi umum, yang perlu dipertimbangkan dalam asuransi kesehatan."
+  },
+  {
+    "instruction": "Apa itu asuransi syariah (takaful)?",
+    "input": "",
+    "output": "Asuransi syariah (takaful) adalah jenis asuransi yang beroperasi berdasarkan prinsip-prinsip syariah Islam, di mana peserta saling tolong-menolong dalam menanggung risiko melalui dana tabarru'."
+  },
+  {
+    "instruction": "Apa itu dana tabarru' dalam asuransi syariah?",
+    "input": "",
+    "output": "Dana tabarru' adalah dana kebajikan yang dikumpulkan dari kontribusi peserta asuransi syariah untuk membantu peserta lain yang mengalami musibah."
+  },
+  {
+    "instruction": "Apa itu asuransi kredit?",
+    "input": "",
+    "output": "Asuransi kredit melindungi pemberi pinjaman dari risiko gagal bayar oleh peminjam, atau melindungi peminjam jika terjadi kematian atau cacat yang menyebabkan mereka tidak dapat membayar cicilan."
+  },
+  {
+    "instruction": "Apa itu asuransi pertanian?",
+    "input": "",
+    "output": "Asuransi pertanian memberikan perlindungan kepada petani dari kerugian akibat bencana alam, hama penyakit, atau gagal panen yang tidak terduga."
+  },
+  {
+    "instruction": "Apa itu asuransi maritim?",
+    "input": "",
+    "output": "Asuransi maritim adalah jenis asuransi yang melindungi kapal, muatan, dan aset terkait lainnya dari risiko yang terjadi di laut atau selama transportasi melalui air."
+  },
+  {
+    "instruction": "Apa itu surat permintaan asuransi (SPA)?",
+    "input": "",
+    "output": "Surat Permintaan Asuransi (SPA) adalah formulir yang diisi oleh calon nasabah untuk mengajukan permohonan asuransi kepada perusahaan asuransi, berisi data diri dan informasi risiko."
+  },
+  {
+    "instruction": "Apa itu klaim parsial?",
+    "input": "",
+    "output": "Klaim parsial adalah klaim asuransi yang hanya mencakup sebagian dari kerugian yang terjadi, tidak seluruh nilai pertanggungan."
+  },
+  {
+    "instruction": "Apa itu klaim total?",
+    "input": "",
+    "output": "Klaim total adalah klaim asuransi yang mencakup seluruh nilai pertanggungan karena kerugian yang terjadi sangat besar atau total."
+  },
+  {
+    "instruction": "Apa itu peninjauan ulang polis (policy review)?",
+    "input": "",
+    "output": "Peninjauan ulang polis adalah proses mengevaluasi kembali polis asuransi yang dimiliki secara berkala untuk memastikan cakupan masih sesuai dengan kebutuhan dan tujuan finansial."
+  },
+  {
+    "instruction": "Apa itu pembayaran premi secara tahunan?",
+    "input": "",
+    "output": "Pembayaran premi secara tahunan adalah cara pembayaran premi asuransi yang dilakukan satu kali dalam setahun."
+  },
+  {
+    "instruction": "Apa itu pembayaran premi secara bulanan?",
+    "input": "",
+    "output": "Pembayaran premi secara bulanan adalah cara pembayaran premi asuransi yang dilakukan setiap bulan."
+  },
+  {
+    "instruction": "Apa itu pembayaran premi secara triwulanan?",
+    "input": "",
+    "output": "Pembayaran premi secara triwulanan adalah cara pembayaran premi asuransi yang dilakukan setiap tiga bulan sekali."
+  },
+  {
+    "instruction": "Apa itu pembayaran premi secara semesteran?",
+    "input": "",
+    "output": "Pembayaran premi secara semesteran adalah cara pembayaran premi asuransi yang dilakukan setiap enam bulan sekali."
+  },
+  {
+    "instruction": "Apa itu masa bebas premi?",
+    "input": "",
+    "output": "Masa bebas premi adalah periode di mana pemegang polis tidak perlu lagi membayar premi namun polis tetap aktif, biasanya terjadi pada asuransi jiwa dengan nilai tunai yang sudah terbentuk."
+  },
+  {
+    "instruction": "Apa itu nilai tunai asuransi?",
+    "input": "",
+    "output": "Nilai tunai asuransi adalah bagian dari premi yang diakumulasikan dan dapat diambil oleh pemegang polis atau digunakan untuk membayar premi jika polis dibatalkan atau dikembalikan."
+  },
+  {
+    "instruction": "Apa itu surat persetujuan klaim?",
+    "input": "",
+    "output": "Surat persetujuan klaim adalah dokumen resmi dari perusahaan asuransi yang menyatakan bahwa klaim nasabah telah disetujui dan pembayaran akan dilakukan."
+  },
+  {
+    "instruction": "Apa itu surat penolakan klaim?",
+    "input": "",
+    "output": "Surat penolakan klaim adalah dokumen resmi dari perusahaan asuransi yang menyatakan bahwa klaim nasabah ditolak beserta alasan penolakannya."
+  },
+  {
+    "instruction": "Apa itu asuransi bencana alam?",
+    "input": "",
+    "output": "Asuransi bencana alam adalah perlindungan tambahan yang dapat ditambahkan ke polis asuransi properti untuk menanggung kerugian akibat gempa bumi, banjir, letusan gunung berapi, dan lain-lain."
+  },
+  {
+    "instruction": "Apa itu asuransi kecelakaan diri?",
+    "input": "",
+    "output": "Asuransi kecelakaan diri memberikan santunan finansial jika tertanggung mengalami cedera, cacat, atau meninggal dunia akibat kecelakaan."
+  },
+  {
+    "instruction": "Apa itu periode asuransi?",
+    "input": "",
+    "output": "Periode asuransi adalah jangka waktu berlakunya polis asuransi, di mana tertanggung mendapatkan perlindungan dari perusahaan asuransi."
+  },
+  {
+    "instruction": "Apa itu Finzure?",
+    "input": "",
+    "output": "Finzure adalah aplikasi web berbasis teknologi machine learning yang dirancang untuk membantu masyarakat dalam memilih produk asuransi yang tepat secara transparan dan objektif. Fokus Finzure adalah pada tiga jenis asuransi utama: **kesehatan, kendaraan, dan properti**. Sistem ini menawarkan tiga fitur utama: (1) **analisis risiko pengguna**, (2) **simulasi premi berbasis risiko**, dan (3) **sistem rekomendasi produk asuransi**."
+  },
+  {
+    "instruction": "Siapa saja tim pengembang Finzure?",
+    "input": "",
+    "output": "Finzure dikembangkan oleh tim berikut: Ajwa Nabawiya, Cahya Navila, Agil Ammar Habibi, Jihan 'Afina, Argi Al Furqon Muntaha, dan Natanael Henry Christiantoro."
+  },
+  {
+    "instruction": "Apa tujuan utama Finzure?",
+    "input": "",
+    "output": "Tujuan utama Finzure adalah membantu masyarakat dalam memilih produk asuransi yang tepat secara transparan dan objektif dengan memanfaatkan teknologi machine learning."
+  },
+  {
+    "instruction": "Jenis asuransi apa saja yang menjadi fokus Finzure?",
+    "input": "",
+    "output": "Finzure berfokus pada tiga jenis asuransi utama: **kesehatan, kendaraan, dan properti**."
+  },
+  {
+    "instruction": "Fitur-fitur utama apa saja yang ditawarkan Finzure?",
+    "input": "",
+    "output": "Finzure menawarkan tiga fitur utama: (1) **analisis risiko pengguna**, (2) **simulasi premi berbasis risiko**, dan (3) **sistem rekomendasi produk asuransi**."
+  },
+  {
+    "instruction": "Bagaimana Finzure menganalisis risiko pengguna?",
+    "input": "",
+    "output": "Finzure menggunakan teknologi machine learning untuk menganalisis data pengguna dan menilai profil risiko mereka, sehingga dapat memberikan rekomendasi produk asuransi yang sesuai."
+  },
+  {
+    "instruction": "Bagaimana Finzure melakukan simulasi premi?",
+    "input": "",
+    "output": "Finzure melakukan simulasi premi berdasarkan analisis risiko pengguna, memungkinkan pengguna melihat perkiraan biaya premi yang sesuai dengan profil risiko mereka."
+  },
+  {
+    "instruction": "Bagaimana Finzure merekomendasikan produk asuransi?",
+    "input": "",
+    "output": "Finzure menggunakan sistem rekomendasi produk asuransi yang objektif, didasarkan pada analisis risiko pengguna dan simulasi premi, untuk menawarkan pilihan yang paling relevan."
+  },
+  {
+    "instruction": "Apakah Finzure transparan dalam rekomendasinya?",
+    "input": "",
+    "output": "Ya, Finzure dirancang untuk memberikan rekomendasi produk asuransi secara transparan dan objektif."
+  },
+  {
+    "instruction": "Apakah Finzure menggunakan teknologi canggih?",
+    "input": "",
+    "output": "Ya, Finzure berbasis teknologi machine learning untuk memberikan analisis dan rekomendasi yang akurat."
+  },
+  {
+    "instruction": "Siapa target pengguna Finzure?",
+    "input": "",
+    "output": "Target pengguna Finzure adalah masyarakat umum yang membutuhkan bantuan dalam memilih produk asuransi yang sesuai dengan kebutuhan mereka."
+  },
+  {
+    "instruction": "Apakah Finzure membantu membandingkan produk asuransi?",
+    "input": "",
+    "output": "Meskipun tidak disebutkan secara eksplisit sebagai fitur pembanding langsung, sistem rekomendasi Finzure membantu pengguna menemukan produk yang paling sesuai, yang secara implisit berarti membandingkan opsi berdasarkan risiko dan premi."
+  },
+  {
+    "instruction": "Bagaimana Finzure membantu mengambil keputusan tentang asuransi?",
+    "input": "",
+    "output": "Finzure membantu pengguna mengambil keputusan yang lebih baik dengan menyediakan analisis risiko yang jelas, simulasi premi yang realistis, dan rekomendasi produk yang objektif."
+  }
+]
